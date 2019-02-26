@@ -1,0 +1,22 @@
+div {
+    display: inline-block;
+    width: 18pt;
+    height: 18pt;
+    line-height: 18pt;
+    border: solid black 1px;
+    text-align: center;
+    margin-top: -1px;
+    margin-right: -1px;
+}
+
+table, td {
+    border: solid black 1px;
+    border-collapse: collapse;
+    margin-top: -1px;
+}
+
+td {
+    width: 18pt;
+    height: 18pt;
+    text-align: center;
+}
